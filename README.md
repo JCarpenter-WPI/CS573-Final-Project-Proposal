@@ -10,7 +10,7 @@ I’ve created a proof of concept visualization of this data. It's a map that sh
 
 [![image](https://github.com/JCarpenter-WPI/CS573-Final-Project-Proposal/issues/1#issue-501505802)](https://beta.vizhub.com/JCarpenter-WPI/2766fc02e0c64090a49dfaba9069d36d)
 
-[![image](https://github.com/JCarpenter-WPI/CS573-Final-Project-Proposal/issues/2#issue-501506387](https://beta.vizhub.com/JCarpenter-WPI/972b7672955b4792b0e115b459068c85)
+[![image](https://github.com/JCarpenter-WPI/CS573-Final-Project-Proposal/issues/2#issue-501506387)](https://beta.vizhub.com/JCarpenter-WPI/972b7672955b4792b0e115b459068c85)
 
 ## Questions & Tasks
 
