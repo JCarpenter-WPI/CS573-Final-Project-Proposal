@@ -27,7 +27,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 The sketch below shows the relationship between the number of companies present on campus (a measure of corporate engagement) and price and outcomes.  Putting these two visualizations next to each other allows a user to select an interesting point on one of the charts and  see where that same institution is located on the other chart.
 
-![image]()
+![image](https://user-images.githubusercontent.com/54547762/66050336-09920700-e4fb-11e9-9d38-dd456d65827b.png)
 
 ## Open Questions
 
