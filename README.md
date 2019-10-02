@@ -8,7 +8,7 @@ The data I propose to visualize for my project comes from three sources:  Nation
 
 I’ve created a proof of concept visualization of this data. It's a map that shows the location of institutions that members are affiliated with and the number of members at each institution.  
 
-[![image]()](https://beta.vizhub.com/JCarpenter-WPI/2766fc02e0c64090a49dfaba9069d36d)
+[![image](https://github.com/JCarpenter-WPI/CS573-Final-Project-Proposal/issues/1#issue-501505802)](https://beta.vizhub.com/JCarpenter-WPI/2766fc02e0c64090a49dfaba9069d36d)
 
 
 
