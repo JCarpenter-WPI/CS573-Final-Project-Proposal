@@ -27,7 +27,7 @@ The following questions will drive the visualization and interaction decisions f
  * What is the diversity of corporate relations office types represented by NACRO members?
  * Are there geographic patterns to the level of corporate engagement?
  
- These questions translate into the following tasks:
+ These questions translate into the following tasks and sub-tasks:
  
  1. Map of institutions
  
