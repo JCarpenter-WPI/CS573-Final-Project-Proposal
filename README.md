@@ -30,3 +30,5 @@ The sketch below shows the relationship between the number of companies present 
 ## Open Questions
 
 While the charts that I've sketched above would be interesting, it may be challenging to implement.  It would also be interesting to let users specify the name of an institution to highlight where that institution is on the charts.  Further, there may be other institutional characteristics that may be related to the level of corporate engagement and price and outcomes that would be interesting to visualize.  Conceptualizing and presenting these multi-dimensional relationships may be challenging, but also offer opportunities to let users interact with the data.
+
+## Schedule of Deliverables
