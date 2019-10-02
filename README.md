@@ -29,7 +29,7 @@ The following questions will drive the visualization and interaction decisions f
  
  These questions translate into the following tasks and sub-tasks:
  
- 1. Map of institutions
+ 1.  Update map of membership by institution
  
  * create tooltip showing list of members and contact info by institution
  * create menus for for organizational characteristics such as size, public/private and Carnegie Classification
@@ -37,22 +37,22 @@ The following questions will drive the visualization and interaction decisions f
  * create functionality to display list of members when users click on region
  * create zoom functionality to more clearly see instititutions that are close to each other (e.g. Boston area)
  
- 2.  Price and outcomes chart
+ 2.  Create price and outcomes chart
  
  * create side by side scatterplots of price and outcomes by level of corporate engagement
  * create tooltip to show name of institution when hovering over a point on the scatterplots
  * create functionality to select a point on one plot and highlight the same institution on the other plot
  * create menu to search for name of institution and highlight the corresponding points for that institution on plots
  
- 3.  Diversity of office types chart
+ 3.  Update chart of diversity of office types
  
  * add menus for orgnizational characteristics such as size, public/private and Carnegie Classification
  
- 4.  Map of level of corporate engagement
+ 4.  Create map of level of corporate engagement
  
  * create map with marks indicating (either by size or color) the level of corporate engagement
  
- 5.  Wish list:  Fancy plots of corporate engagement
+ 5.  Wish list:  Create fancy plots of corporate engagement
  
  * explore possibility of creating box plots or violin plots
  
@@ -63,16 +63,12 @@ The sketch below shows the relationship between the number of companies present 
 
 ![image](https://user-images.githubusercontent.com/54547762/66050336-09920700-e4fb-11e9-9d38-dd456d65827b.png)
 
-## Open Questions
-
-While the charts that I've sketched above would be interesting, it may be challenging to implement.  It would be desirable to let users specify the name of an institution to highlight where that institution is on the charts.  Further, there may be other institutional characteristics that may be related to the level of corporate engagement and price and outcomes that would be interesting to visualize.  Conceptualizing and presenting these multi-dimensional relationships may be challenging, but also offer opportunities to let users interact with the data.
-
 ## Schedule of Deliverables
 
 10/2 Task 3
-10/9 Tasks 4 and 5
+10/9 Task 4
 10/16 Task 1
 10/23 Task 2
-10/30 Everything!
+10/30 Task 5 and put everything together
 
 
