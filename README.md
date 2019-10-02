@@ -6,15 +6,19 @@ The data I propose to visualize for my project comes from three sources:  Nation
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a map that shows the location of institutions that members are affiliated with and the number of members at each institution.  
+I’ve created two proof of concept visualizations of this data. 
+
+The first one is a map that shows the location of institutions that NACRO members are affiliated with and the number of members at each institution.  
 
 [![image](https://user-images.githubusercontent.com/54547762/66050217-c6d02f00-e4fa-11e9-801d-dd29323218d3.png)](https://beta.vizhub.com/JCarpenter-WPI/2766fc02e0c64090a49dfaba9069d36d)
+
+The second one is a bar chart showing the diversity of corporate relations office types by number of NACRO members.
 
 [![image](https://user-images.githubusercontent.com/54547762/66050276-eb2c0b80-e4fa-11e9-9468-8b53ac9199ec.png)](https://beta.vizhub.com/JCarpenter-WPI/972b7672955b4792b0e115b459068c85)
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following questions will drive the visualization and interaction decisions for this project:
 
  * Who are the members at institutions near me?
  * Who are the members at institutions similar to mine in terms of size, public/private, and Carnegie Classification?
@@ -22,6 +26,36 @@ The following tasks and questions will drive the visualization and interaction d
  * How do price and outcomes relate to the level of corporate engagement?
  * What is the diversity of corporate relations office types represented by NACRO members?
  * Are there geographic patterns to the level of corporate engagement?
+ 
+ These questions translate into the following tasks:
+ 
+ 1. Map of institutions
+ 
+ * create tooltip showing list of members and contact info by institution
+ * create menus for for organizational characteristics such as size, public/private and Carnegie Classification
+ * color code regions
+ * create functionality to display list of members when users click on region
+ * create zoom functionality to more clearly see instititutions that are close to each other (e.g. Boston area)
+ 
+ 2.  Price and outcomes chart
+ 
+ * create side by side scatterplots of price and outcomes by level of corporate engagement
+ * create tooltip to show name of institution when hovering over a point on the scatterplots
+ * create functionality to select a point on one plot and highlight the same institution on the other plot
+ * create menu to search for name of institution and highlight the corresponding points for that institution on plots
+ 
+ 3.  Diversity of office types chart
+ 
+ * add menus for orgnizational characteristics such as size, public/private and Carnegie Classification
+ 
+ 4.  Map of level of corporate engagement
+ 
+ * create map with marks indicating (either by size or color) the level of corporate engagement
+ 
+ 5.  Wish list:  Fancy plots of corporate engagement
+ 
+ * explore possibility of creating box plots or violin plots
+ 
 
 ## Sketches
 
@@ -31,6 +65,14 @@ The sketch below shows the relationship between the number of companies present 
 
 ## Open Questions
 
-While the charts that I've sketched above would be interesting, it may be challenging to implement.  It would also be interesting to let users specify the name of an institution to highlight where that institution is on the charts.  Further, there may be other institutional characteristics that may be related to the level of corporate engagement and price and outcomes that would be interesting to visualize.  Conceptualizing and presenting these multi-dimensional relationships may be challenging, but also offer opportunities to let users interact with the data.
+While the charts that I've sketched above would be interesting, it may be challenging to implement.  It would be desirable to let users specify the name of an institution to highlight where that institution is on the charts.  Further, there may be other institutional characteristics that may be related to the level of corporate engagement and price and outcomes that would be interesting to visualize.  Conceptualizing and presenting these multi-dimensional relationships may be challenging, but also offer opportunities to let users interact with the data.
 
 ## Schedule of Deliverables
+
+10/2 Task 3
+10/9 Tasks 4 and 5
+10/16 Task 1
+10/23 Task 2
+10/30 Everything!
+
+
