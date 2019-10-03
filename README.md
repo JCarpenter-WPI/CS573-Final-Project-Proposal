@@ -65,7 +65,7 @@ The sketch below shows the relationship between the number of companies present 
 
 ## Open Questions
 
-Besides the big question of whether I am biting off more than I can chew here, to make the membership by institution map operations for NACRO, they will need to update the data regularly, which seems cumbersome to have to go into gisthub each time to copy and paste an updated dataset.  It seems like there should be a way to be able to automate those updates?  
+Besides the big question of whether I am biting off more than I can chew here, to make the membership by institution map operations for NACRO, they will need to update the data regularly, which seems cumbersome to have to go into gisthub each time to copy and paste an updated dataset.  It seems like there should be a way to be able to automate those updates, by perhaps connecting directly to the Excel file where the data are stored (similar to how Tableau can update)?  
 
 But back to biting off more than I can chew, I think the functionality that I have listed in my task list above that is most questionable is displaying a list of members by region when a user clicks on a region on the membership by institution map.  The second most questionable is making the side by side scatterplots, I may have to make these separate, though it would be pretty cool to put those together.  I also don't want to commit to task 5.  I trust you when you say that it may be challenging!
 
